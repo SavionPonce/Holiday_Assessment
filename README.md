@@ -4,7 +4,7 @@ This is an application to track holidays over the years 2020 to 2024.
 
 There is a flowchart in holiday_flowchart.png that displays how I planned out how my code should be executed.
 
-the .gitignore file contains the files to ignore that contain sensitive information: config.py and config.cpython-39.pyc
+the .gitignore file contains the files to ignore that contain sensitive information: config.py and config.cpython-39.pyc. Remember please change my config_ponce.py file to config.py
 
 The holidays.json file contains a provided list of seven holidays that were used as starter holidays.
 
